@@ -1,0 +1,9 @@
+[submodule "SNMPLib"]
+	path = SNMPLib
+	url = https://github.com/mitrais-cdc-cpp/SNMPLib
+[submodule "SNMPDao"]
+	path = SNMPDao
+	url = https://github.com/mitrais-cdc-cpp/SNMPDao
+[submodule "Nemsta"]
+	path = Nemsta
+	url = https://github.com/mitrais-cdc-cpp/Nemsta
